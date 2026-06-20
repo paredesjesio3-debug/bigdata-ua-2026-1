@@ -6,8 +6,8 @@
 
 | Campo | Detalle |
 |-------|---------|
-| **Nombre del estudiante** | Hidgar Orellano Huerta |
-| **Codigo de estudiante** | 2221892872 |
+| **Nombre del estudiante** giancarlos alegria
+| **Codigo de estudiante** | 2221895512 |
 | **Seccion** | 6 |
 | **Fecha** | 20/06/2026 |
 | **Tiempo estimado** | 1.5 horas |
